@@ -1,12 +1,3 @@
-Based on the contents of your GitHub repository (with a `.vscode` folder, `portfolio` directory, various `blogX.png`, and other showcase images like `chatbot.png`, `dashboard.png`, etc.), it seems you're setting up a **portfolio project** to visually showcase your projects and blogs.
-
-Here’s a **long, detailed, and visually-appealing `README.md`** you can use. It includes animations (via shields and GIFs), structured sections (About, Projects, Blogs, etc.), and is tailored to a modern portfolio repo like yours.
-
----
-
-```markdown
-<!-- README.md -->
-
 <h1 align="center">👨‍💻 Haseeb's Portfolio</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&width=435&lines=Welcome+to+my+Portfolio+👋;Full-Stack+Developer+%26+ML+Engineer;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
